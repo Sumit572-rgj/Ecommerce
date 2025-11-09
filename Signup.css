@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+background: url('background.jpg');
+}
+div{
+    background-color: cyan;
+    height: 500px;
+    width: 450px;
+    border-radius: 50px;
+    margin-top: 200px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 90px;
+}
+input{
+    padding-top: 20px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 300px;
+    border-style: hidden;
+}
+a:hover{
+    color: blue;
+    cursor: pointer;
+}
+button{
+    border-radius: 30px;
+    padding: 8px;
+    margin-top: 30px;
+    width: 100px;
+}
+.r:hover{
+    background-color: green;
+    color: white;
+
+
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
