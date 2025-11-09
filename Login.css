@@ -1,0 +1,43 @@
+body{
+    padding-top: 80px;
+    background: url(background.jpg);
+
+}
+div{
+     background-color: cyan;
+    height: 500px;
+    width: 450px;
+    border-radius: 50px;
+    
+}
+input{
+    padding-top: 20px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 300px;
+    border-style: hidden;
+    
+}
+a{
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 90px;
+    
+}
+button{
+    padding: 10px;
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 50px;
+    width: 150px;
+}
+
+button:hover{
+    background-color: green;
+    color: aliceblue;
+    text-shadow: 0cqb;
+}
